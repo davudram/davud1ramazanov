@@ -28,8 +28,13 @@ Welcome to my GitHub repository! My name is Davud Ramazanov, and I have been stu
 ![image](https://github.com/Davud1Ramazanov/davud1ramazanov/assets/95874233/2237424d-f2ff-4a5d-8aab-bc0058f9ba10)
 ![image](https://github.com/Davud1Ramazanov/davud1ramazanov/assets/95874233/c17ed116-457f-4b54-8131-4e3f5aab4bd8)
 
+# Streak stats
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Davud1Ramazanov)](https://git.io/streak-stats)
 
+# My popular languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Davud1Ramazanov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # Projects
 Throughout my learning journey, I have worked on a range of projects to practice and enhance my skills. This repository includes some of the notable projects I have completed. Each project is organized in its own directory, containing the relevant source code and any necessary documentation.
@@ -39,6 +44,10 @@ Feel free to explore the projects and delve into the code. I have strived to mai
 # Contributions
 While this repository primarily showcases my personal projects, I am always open to collaboration and learning from others. If you find any issues or have suggestions for improvement in any of the projects, please feel free to open an issue or submit a pull request. I appreciate and value constructive feedback.
 
+![](https://komarev.com/ghpvc/?username=your-github-Davud1Ramazanov)
+
 # Contact
 If you would like to get in touch with me or discuss any potential opportunities, you can reach me via in Discord at Davud#3769. 
 Thank you for visiting my GitHub repository, and I hope you find my work interesting and valuable.
+_________________
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)

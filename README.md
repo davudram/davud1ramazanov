@@ -1,5 +1,5 @@
 # **About me**
-Welcome to my GitHub repository! My name is Davud Ramazanov, and I have been studying and working hard to develop my skills as a software dev and fullstack dev for the past two years. In this repository, you will find a collection of projects and code samples that demonstrate my proficiency in various programming languages and technologies.
+Welcome to my GitHub repository! My name is Davud Ramazanov, and I have been studying and working hard to develop my skills as a software dev for the past two years. In this repository, you will find a collection of projects and code samples that demonstrate my proficiency in various programming languages and technologies.
 
 # Skills
 ![image](https://github.com/Davud1Ramazanov/davud1ramazanov/assets/95874233/3849789b-6ce1-4b21-a50e-c7643b6b4fa4)
